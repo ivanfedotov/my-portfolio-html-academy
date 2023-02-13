@@ -4,4 +4,4 @@
 - **HTML**
 - **CSS**
 ## Демо
-[Смотреть](https://ivanfedotov.github.io/my-landingpage-scandi-html-academy)
+[Смотреть](https://ivanfedotov.github.io/my-portfolio-html-academy)
